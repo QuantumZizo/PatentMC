@@ -1,0 +1,2 @@
+team add blacklisted
+gamerule spectatorsGenerateChunks false
