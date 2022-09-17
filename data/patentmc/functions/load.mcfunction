@@ -1,1 +1,1 @@
-tellraw @a {"text":"Patent Installler is loaded, use /function patent:install","color":"blue"}
+tellraw @a {"text":"Patent Installler is loaded, use /function patent:install to install","color":"blue"}
