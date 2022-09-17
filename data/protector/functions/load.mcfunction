@@ -1,1 +1,1 @@
-tellraw @a {"text":"This is the World Protector installer, check the github page to learn how to use this.","color":"blue","bold":true,"italic":false,"underlined":true}
+tellraw @a {"text":"Patent Installler is loaded, use /function patent:install","color":"blue"}
